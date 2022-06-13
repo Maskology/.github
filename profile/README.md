@@ -26,7 +26,7 @@ This orgnanization is for all codabase for Bangkit 2022
 
 ### Other Repositories
 ##### Deployment
-[Node.js Model Deployment](https://github.com/Maskology/deploy-ml-in-nodejs) is the main deployment  
+[Node.js Model Deployment](https://github.com/Maskology/deploy-ml-in-nodejs) is the main deployment (the source code will be copied to Node.js backend server) 
 [FastAPI Model Deployment](https://github.com/Maskology/ml-deploy-fastapi) as plan B if the node.js deployment not going well  
 
 ##### Dashboard
